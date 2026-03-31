@@ -8,7 +8,7 @@ namespace CybersecurityChatbot
     {
         public void PlayGreeting()
         {
-            try
+           try
             {
                 string audioPath = Path.Combine(
                     AppDomain.CurrentDomain.BaseDirectory,
