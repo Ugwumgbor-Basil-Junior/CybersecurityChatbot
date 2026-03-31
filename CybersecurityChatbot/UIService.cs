@@ -5,7 +5,7 @@ namespace CybersecurityChatbot
 {
     public class UIService
     {
-        public void DisplayAsciiLogo()
+ public void DisplayAsciiLogo()
         {
             Console.ForegroundColor = ConsoleColor.Cyan;
             string logo = @"
